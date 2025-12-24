@@ -5,7 +5,7 @@ Driving Cloud-Native & Microservices Transformation | Web Security and Accelerat
 ## About
 I bring 20 years in information technology across enterprise platforms, telecom, cloud, and product leadership. My career spans ERP systems, mobile ecosystems, and large-scale network monitoring, with a focus on automation, reliability, and modern architecture.
 
-## Experience Highlights (Most Recent First)
+## Experience Highlights
 - Cloud computing: system engineer, cloud engineer, DevOps team lead, panel and SaaS product owner, and tech lead.
 - Telecom: network performance monitoring with hundreds of terabytes of daily data; automation and data normalization using Python and Docker.
 - Mobile and startup work: Android apps, online app stores, firewalls, and load balancing for mobile ecosystems.
