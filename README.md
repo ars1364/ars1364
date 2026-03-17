@@ -1,20 +1,43 @@
-# Ahmad R. (ars1364)
+# Hi, I'm Ahmad Reza Sarkhail
 
-Driving Cloud-Native & Microservices Transformation | Web Security and Acceleration | Distributed Systems
+**Senior DevOps & Platform Engineer** with 10+ years of experience building and operating cloud infrastructure at scale.
 
-## About
-I bring 20 years in information technology across enterprise platforms, telecom, cloud, and product leadership. My career spans ERP systems, mobile ecosystems, and large-scale network monitoring, with a focus on automation, reliability, and modern architecture.
+## What I Do
 
-## Experience Highlights
-- Cloud computing: system engineer, cloud engineer, DevOps team lead, panel and SaaS product owner, and tech lead.
-- Telecom: network performance monitoring with hundreds of terabytes of daily data; automation and data normalization using Python and Docker.
-- Mobile and startup work: Android apps, online app stores, firewalls, and load balancing for mobile ecosystems.
-- Enterprise Resource Planning (ERP): Java EE with MySQL and Oracle 11gR2.
+- **Container Orchestration** — Production Kubernetes clusters with 99.999% uptime, Helm, autoscaling
+- **Infrastructure as Code** — Terraform & Ansible across multi-datacenter deployments (7 DCs)
+- **CI/CD & GitOps** — GitLab CI, GitHub Actions, ArgoCD, deployment time reduced by 90%
+- **Observability** — Prometheus, Grafana (40+ custom dashboards), ELK Stack, alerting design
+- **Cloud Platforms** — AWS (certified), Azure, OpenStack (5+ years at petabyte scale)
+- **Automation** — Go, Python, Bash — eliminating 70-80% of manual operations
 
-## Current Focus
-- Cloud-native platforms and microservices modernization.
-- Scalable, secure web delivery and acceleration.
-- Distributed systems design and operational excellence.
+## Key Achievements
+
+| Metric | Impact |
+|--------|--------|
+| Deployment time | 2 hours to 15 minutes |
+| Infrastructure uptime | 99.9% - 99.999% |
+| CEPH storage | 90+ nodes, 6 datacenters, petabyte scale |
+| Hardware cost savings | $150K+ through memory optimization |
+| Bandwidth cost reduction | 65% through traffic automation |
+| Server fleet | 200+ production servers across 8 cities |
+
+## Tech Stack
+
+```
+Kubernetes - Docker - Helm - Terraform - Ansible - ArgoCD
+Prometheus - Grafana - ELK Stack - GitLab CI - GitHub Actions
+AWS - Azure - OpenStack - CEPH - HAProxy - Nginx
+Go - Python - Bash - PostgreSQL - Redis - MongoDB
+```
+
+## Currently
+
+- DevOps Engineer at **CloudInative** (cloud infrastructure provider)
+- Building Go-based tooling and automation
+- Open to **relocation to Germany / EU**
 
 ## Connect
-If you want to collaborate on cloud, infrastructure, or platform engineering, feel free to reach out.
+
+- [LinkedIn](https://linkedin.com/in/ahmadrezasarkhail)
+- Email: ars1364@gmail.com
