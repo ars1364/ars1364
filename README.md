@@ -4,7 +4,6 @@
 
 ## What I Do
 
-- **Container Orchestration** — Production Kubernetes clusters with 99.999% uptime, Helm, autoscaling
 - **Infrastructure as Code** — Terraform & Ansible across multi-datacenter deployments (7 DCs)
 - **CI/CD & GitOps** — GitLab CI, GitHub Actions, ArgoCD, deployment time reduced by 90%
 - **Observability** — Prometheus, Grafana (40+ custom dashboards), ELK Stack, alerting design
@@ -25,8 +24,8 @@
 ## Tech Stack
 
 ```
-Kubernetes - Docker - Helm - Terraform - Ansible - ArgoCD
-Prometheus - Grafana - ELK Stack - GitLab CI - GitHub Actions
+Docker - Terraform - Ansible
+Prometheus - Grafana - GitLab CI - GitHub Actions
 AWS - Azure - OpenStack - CEPH - HAProxy - Nginx
 Go - Python - Bash - PostgreSQL - Redis - MongoDB
 ```
