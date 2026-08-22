@@ -1,13 +1,13 @@
 # Hi, I'm Ahmad Reza Sarkhail
 
-**Senior DevOps & Platform Engineer** with 10+ years of experience building and operating cloud infrastructure at scale.
+**Senior DevOps & Platform Engineer** with 20+ years of experience building and operating cloud infrastructure at scale.
 
 ## What I Do
 
 - **Infrastructure as Code** — Terraform & Ansible across multi-datacenter deployments (7 DCs)
 - **CI/CD & GitOps** — GitLab CI, GitHub Actions, ArgoCD, deployment time reduced by 90%
 - **Observability** — Prometheus, Grafana (40+ custom dashboards), ELK Stack, alerting design
-- **Cloud Platforms** — AWS (certified), Azure, OpenStack (5+ years at petabyte scale)
+- **Cloud Platforms** — AWS (certified), Azure, OpenStack
 - **Automation** — Go, Python, Bash — eliminating 70-80% of manual operations
 
 ## Key Achievements
@@ -32,9 +32,8 @@ Go - Python - Bash - PostgreSQL - Redis - MongoDB
 
 ## Currently
 
-- DevOps Engineer at **CloudInative** (cloud infrastructure provider)
+- Platform Engineer at **CloudInative** (cloud infrastructure provider)
 - Building Go-based tooling and automation
-- Open to **relocation to Germany / EU**
 
 ## Connect
 
